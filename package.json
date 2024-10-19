@@ -20,6 +20,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"svelte-virtualized-tree": "^0.0.7"
+		"@tanstack/svelte-virtual": "^3.10.8",
+		"lucide-svelte": "^0.453.0",
+		"svelte-virtualized-tree": "^1.0.1"
 	}
 }
